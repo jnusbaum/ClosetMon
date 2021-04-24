@@ -1,2 +1,2 @@
-# HeatingTempMon
-heating temperature monitor
+# ClosetMon
+closet heating temperature monitor
